@@ -1,0 +1,21 @@
+{
+    "name": "candy-ui",
+    "displayName": "candy-ui",
+    "description": "A port from candy ui jetbrains theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Candy UI",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Candy UI-color-theme.json"
+            }
+        ]
+    }
+}
